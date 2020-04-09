@@ -83,7 +83,9 @@
                 <div class="title m-b-md">
                    MagicStar
                 </div>
-
+                <div class="links">
+                    <a target="_blank" href="https://github.com/magicstarsystem/test">GitHub</a>
+                </div>
 
             </div>
         </div>
